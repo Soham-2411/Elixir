@@ -33,7 +33,7 @@ a one stop location to discuss about different medical milestones , connect with
 6. Common discussion forum available 
 <img src = "english_chat.jpg" height=300> 
 7. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info
- <img src = "assistant.jpeg" height=300> 
+ <img src = "assistant.jpg" height=300> 
 8. Language translation
 <p float="left">
      <img src = "english_chat.jpg" height=300> 
