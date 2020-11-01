@@ -1,6 +1,6 @@
 # Elixer
 
-[![Watch the video](readme_assests/elixir.PNG)](https://youtu.be/tkTm2veohp4)
+[![Watch the video](elixir.PNG)](https://youtu.be/tkTm2veohp4)
 **(Click the image to go to the youtube video link of the App)**
 
 **FLUTTER MOBILE APP APK -** [[click here]](https://github.com/savss624/Elixir/raw/main/Elixir.apk)
@@ -16,30 +16,33 @@ a one stop location to discuss about different medical milestones , connect with
 ## Features
 
 1. Easy Sign up and Login with your email and password - powered by **Google Realtime Firebase**.
+
 <p float="left">
-<img src = "readme_assests/login.jpg" height=300            > 
-<img src = "readme_assests/signup.jpg" height=300>
+<img src = "login.jpg" height=300            > 
+<img src = "signup.jpg" height=300>
 </p>
+
 2. Takes Ur present location and searches and gives u a list of all nearby hospitals
- <img src = "readme_assests/location.jpg" height=300> 
+ <img src = "location.jpg" height=300> 
 3. Have one on one encrypted chat system for communication
- <img src = "readme_assests/english_chat.jpg" height=300> 
+ <img src = "english_chat.jpg" height=300> 
 4. Have a feed section for people to share recovery stories and give motivation to everyone
- <img src = "readme_assests/feed.jpg" height=300> 
+ <img src = "feed.jpg" height=300> 
 5. Video calling feature available in one on one chat
  
 6. Common discussion forum available 
-<img src = "readme_assests/english_chat.jpg" height=300> 
+<img src = "english_chat.jpg" height=300> 
 7. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info
- <img src = "readme_assests/assistant.jpeg" height=300> 
+ <img src = "assistant.jpeg" height=300> 
 8. Language translation
 <p float="left">
-     <img src = "readme_assests/english_chat.jpg" height=300> 
-      <img src = "readme_assests/hindichat.jpg" height=300>
+     <img src = "english_chat.jpg" height=300> 
+      <img src = "hindichat.jpg" height=300>
       </p>
 
 **Developers :-**
-<img src = "readme_assests/dev..jpg" height=300> 
+
+<img src = "dev..jpg" height=300> 
 
 We have made this Application with the vision of helping the community in any small way possible and just hope that the people suffering worldwide gets cured soon and lead a healthy life.
    
