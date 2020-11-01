@@ -1,6 +1,6 @@
 # Elixer
 
-[![Watch the video](images/Vid.png)](https://youtu.be/tkTm2veohp4)
+[![Watch the video](readme assests/elixir.PNG)](https://youtu.be/tkTm2veohp4)
 **(Click the image to go to the youtube video link of the App)**
 
 **FLUTTER MOBILE APP APK -** [[click here]](https://github.com/savss624/Elixir/raw/main/Elixir.apk)
@@ -16,15 +16,30 @@ a one stop location to discuss about different medical milestones , connect with
 ## Features
 
 1. Easy Sign up and Login with your email and password - powered by **Google Realtime Firebase**.
+<p float="left">
+<img src = "readme assests/login.jpg" height=300            > 
+<img src = "readme assests/signup.jpg" height=300>
+</p>
 2. Takes Ur present location and searches and gives u a list of all nearby hospitals
+ <img src = "readme assests/location.jpg" height=300> 
 3. Have one on one encrypted chat system for communication
+ <img src = "readme assests/english chat.jpg" height=300> 
 4. Have a feed section for people to share recovery stories and give motivation to everyone
-6. Video calling feature available in one on one chat 
-7. Common discussion forum available 
-8. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info
-9. Language translation
+ <img src = "readme assests/feed.jpg" height=300> 
+5. Video calling feature available in one on one chat
+ <img src = "images/Chat.jpeg" height=300> 
+6. Common discussion forum available 
+ <img src = "c" height=300> 
+7. AI chatbot that speaks to you when u ask them basic questions about medical terms and general info
+ <img src = "readme assests/assistant.jpeg" height=300> 
+8. Language translation
+<p float="left">
+      <img src = "readme assests/english chat.jpg" height=300> 
+      <img src = "readme assests/hindi chat.jpg" height=300>
+      </p>
 
 **Developers :-**
+<img src = "readme assests/dev..jpg" height=300> 
 
 We have made this Application with the vision of helping the community in any small way possible and just hope that the people suffering worldwide gets cured soon and lead a healthy life.
    
