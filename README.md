@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Elixer
 
 [![Watch the video](elixir.PNG)](https://youtu.be/tkTm2veohp4)
@@ -101,4 +100,3 @@ We have made this Application with the vision of helping the community in any sm
 Regards,
 
 Team Ctrl-Alt-Elite
->>>>>>> 10e184735e854a91807c926aa99b29d2b19cd9ee
